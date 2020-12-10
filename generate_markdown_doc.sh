@@ -1,0 +1,1 @@
+$GOPATH/bin/swagger -apiPackage="gitlab.wallstcn.com/opensource/goswgspecgen/example" -mainApiFile="gitlab.wallstcn.com/opensource/goswgspecgen/example/web/main.go" -format="markdown" -output="API.md" -basePath="http://127.0.0.1:8080"
